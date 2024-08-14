@@ -82,14 +82,13 @@ StockVision is an AI-powered inventory management system designed to revolutioni
  │                           │
  │   React.js + Next.js      │
  │  React Native (Mobile)    │
- │  React/Electron or Python │
- │     (Desktop)             │
+ │  React/Electron (Desktop) │
  └──────────────┬────────────┘
                 │
                 │
  ┌──────────────▼────────────┐
- │       Express.js API       │
- │    (TypeScript)            │
+ │       Express.js API      │
+ │        (TypeScript)       │
  └──────────────┬────────────┘
                 │
  ┌──────────────▼────────────┐
@@ -109,7 +108,7 @@ StockVision is an AI-powered inventory management system designed to revolutioni
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/StockVision.git
+   git clone https://github.com/Youssefbaghr/StockVision.git
    ```
 
 2. Express.js Setup:
