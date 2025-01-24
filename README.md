@@ -207,7 +207,7 @@ We welcome contributions from the open-source community! If you'd like to contri
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+Please see our [CONTRIBUTING.md](./docs/CONTRIBUTING.md) file for more details.
 
 ## License
 
